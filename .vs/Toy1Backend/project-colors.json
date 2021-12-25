@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55e29007-7642-47a8-98b3-25cfe8009d77": {
+      "ProjectGuid": "55e29007-7642-47a8-98b3-25cfe8009d77",
+      "DisplayName": "Toy1Backend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
